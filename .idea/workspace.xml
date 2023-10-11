@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1db925cf-7241-420a-8cbf-4ede6599a04a" name="Default Changelist" comment="" />
+    <list default="true" id="1db925cf-7241-420a-8cbf-4ede6599a04a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Buoi14_Mang.c" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694590508614</updated>
       <workItem from="1694590510227" duration="15000" />
+      <workItem from="1696991076472" duration="35000" />
     </task>
     <servers />
   </component>
@@ -47,5 +50,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
